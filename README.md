@@ -1,10 +1,16 @@
 - 👋 Hi, I’m @InnocentLi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Java JavaScript C++ 
+- 🌱 I’m currently learning Vue and React
+```java
+        Person person = new Person();
+        person.Name = "Wenhao Li";
+        person.WeChat = "9304893";//this is real
+        DateFormat date = new SimpleDateFormat("yyyy-MM-dd");
+        person.Birthday = date.parse("1996-12-04");
+        String major[] = { "Java", "JavaScript", "C++" };
+        person.Major = major;
+        String experience[] = { "DiDi", "Alibaba"};
+        person.WorkExperience = experience;
+        person.IWantSay("JS is a f**king language");
 
-<!---
-InnocentLi/InnocentLi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```
