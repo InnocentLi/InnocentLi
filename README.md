@@ -15,7 +15,7 @@
 
 ```
 2015.6-2019.7     黒龍江大学  
-2022.12- 今まで　日立ソリューションズ(中国)(正社員)  
-2018.12-2020.12   アリババ株式会社(Alibaba Group)(正社員)  
-2018.4 - 2018.11   ディディチューシン (Didi Chuxing Technology)(インターンシップ)  
-2017.9  -  2018.3   チューナー(Qunar Technology)(インターンシップ)  
+2022.12- 今まで　日立ソリューションズ(中国) <img style="height:12px" src="https://github.com/InnocentLi/InnocentLi/blob/main/hitachi-icon.png"/> (正社員)  
+2018.12-2020.12   アリババ株式会社 <img style="height:12px" src="https://github.com/InnocentLi/InnocentLi/blob/main/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4.png"/> (Alibaba Group)(正社員)  
+2018.4 - 2018.11   ディディチューシン  <img style="height:14px" src="https://github.com/InnocentLi/InnocentLi/blob/main/%E6%BB%B4%E6%BB%B4%E5%87%BA%E8%A1%8C.png"/>  (Didi Chuxing Technology)(インターンシップ)  
+2017.9  -  2018.3   チューナー <img style="height:12px" src="https://github.com/InnocentLi/InnocentLi/blob/main/%E5%8E%BB%E5%93%AA%E5%84%BF.png"/> (Qunar Technology)(インターンシップ)  
